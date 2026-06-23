@@ -10,6 +10,7 @@ Aqui vem um exemplo de como alteramos um texto ao nosso readme.
 Para criar um pull request, crie uma nova branch e 
 envie suas alterações, logo crie uma solicitação de pull
 request para a branch principal.
+
 ## CRIANDO UM CONFLITO
 
 Um conflito existe quando o mesmo arquivo é modificado
